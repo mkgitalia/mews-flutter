@@ -1,1 +1,0 @@
-An icon library packed as font. Used as a part of the [optimus](https://pub.dev/packages/optimus).
